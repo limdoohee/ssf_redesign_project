@@ -1,0 +1,119 @@
+%!Adobe-FontList 1.14
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\황수진 디지털 웹 디자인\실무\web\4월 css\Font\NanumBarunGothic.eot
+FileModTime:1491349476
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NanumBarunGothic
+FamilyName:NanumBarunGothic
+StyleName:Regular
+FullName:NanumBarunGothic
+MenuName:나눔바른고딕
+StyleBits:0
+FamilyNameNative:나눔바른고딕
+StyleNameNative:Regular
+FullNameNative:나눔바른고딕
+WritingScript:Korean
+OutlineFileName:D:\황수진 디지털 웹 디자인\실무\web\4월 css\Font\NanumBarunGothic.ttf
+DataFormat:sfntData
+FileLength:4184028
+FileModTime:1491349478
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\황수진 디지털 웹 디자인\실무\web\4월 css\Font\NanumBarunGothic.woff
+FileModTime:1491349482
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\황수진 디지털 웹 디자인\실무\web\4월 css\Font\NanumBarunGothicBold.eot
+FileModTime:1491349484
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NanumBarunGothicBold
+FamilyName:NanumBarunGothic
+StyleName:Bold
+FullName:NanumBarunGothic Bold
+MenuName:나눔바른고딕
+StyleBits:2
+FamilyNameNative:나눔바른고딕
+StyleNameNative:Bold
+FullNameNative:나눔바른고딕 Bold
+WritingScript:Korean
+OutlineFileName:D:\황수진 디지털 웹 디자인\실무\web\4월 css\Font\NanumBarunGothicBold.ttf
+DataFormat:sfntData
+FileLength:4413912
+FileModTime:1491349488
+WeightClass:600
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\황수진 디지털 웹 디자인\실무\web\4월 css\Font\NanumBarunGothicBold.woff
+FileModTime:1491349490
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NanumBarunGothicLight
+FamilyName:NanumBarunGothic
+StyleName:Light
+FullName:NanumBarunGothic Light
+MenuName:나눔바른고딕 Light
+StyleBits:0
+FamilyNameNative:나눔바른고딕
+StyleNameNative:Light
+FullNameNative:나눔바른고딕 Light
+WritingScript:Korean
+OutlineFileName:D:\황수진 디지털 웹 디자인\실무\web\4월 css\Font\NanumBarunGothicLight.ttf
+DataFormat:sfntData
+FileLength:4917332
+FileModTime:1491349494
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NanumBarunGothicUltraLight
+FamilyName:NanumBarunGothic
+StyleName:UltraLight
+FullName:NanumBarunGothic UltraLight
+MenuName:나눔바른고딕 UltraLight
+StyleBits:0
+FamilyNameNative:나눔바른고딕
+StyleNameNative:UltraLight
+FullNameNative:나눔바른고딕 UltraLight
+WritingScript:Korean
+OutlineFileName:D:\황수진 디지털 웹 디자인\실무\web\4월 css\Font\NanumBarunGothicUltraLight.ttf
+DataFormat:sfntData
+FileLength:4790084
+FileModTime:1491349498
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
